@@ -1,7 +1,6 @@
 import React,{useState} from 'react'
 import Footer from './Footer'
 import Map from "./Map"
-import 'reactjs-popup/dist/index.css';
 import axios from "axios"
 
 const Contact = () => {
@@ -37,7 +36,7 @@ const Contact = () => {
           subject:subject,
           message:message,
       }
-      axios.post('http://localhost:8080/submit/',submit)
+      axios.post('https://portfolio-backend-1.herokuapp.com/submit/',submit)
       .then(res => console.log(res.data))
 
       alert('Form sent successfully!')
