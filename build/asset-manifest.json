@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2d7595a.chunk.css",
+    "main.js": "/static/js/main.d492faea.chunk.js",
+    "main.js.map": "/static/js/main.d492faea.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.291a5225.js",
+    "runtime-main.js.map": "/static/js/runtime-main.291a5225.js.map",
+    "static/js/2.a6c36b1c.chunk.js": "/static/js/2.a6c36b1c.chunk.js",
+    "static/js/2.a6c36b1c.chunk.js.map": "/static/js/2.a6c36b1c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b2d7595a.chunk.css.map": "/static/css/main.b2d7595a.chunk.css.map",
+    "static/js/2.a6c36b1c.chunk.js.LICENSE.txt": "/static/js/2.a6c36b1c.chunk.js.LICENSE.txt",
+    "static/media/19947.1df8f0ea.jpg": "/static/media/19947.1df8f0ea.jpg",
+    "static/media/4782.33df4dac.jpg": "/static/media/4782.33df4dac.jpg",
+    "static/media/Cybersecurity.25514be2.jpg": "/static/media/Cybersecurity.25514be2.jpg",
+    "static/media/aboutme.b7f3e77b.png": "/static/media/aboutme.b7f3e77b.png",
+    "static/media/bandicam 2020-10-30 12-37-49-024.fe285888.jpg": "/static/media/bandicam 2020-10-30 12-37-49-024.fe285888.jpg",
+    "static/media/customer.e0e081d5.jpg": "/static/media/customer.e0e081d5.jpg",
+    "static/media/cyber.22977de8.png": "/static/media/cyber.22977de8.png",
+    "static/media/logistics.c6159c5f.jpg": "/static/media/logistics.c6159c5f.jpg",
+    "static/media/logisticss.9f406a7e.jpg": "/static/media/logisticss.9f406a7e.jpg",
+    "static/media/modern-web-design-concept-with-flat-style_23-2147935005.75a3fe3a.jpg": "/static/media/modern-web-design-concept-with-flat-style_23-2147935005.75a3fe3a.jpg",
+    "static/media/webdesign.2d3668a2.png": "/static/media/webdesign.2d3668a2.png",
+    "static/media/webhosting.fd68fc72.png": "/static/media/webhosting.fd68fc72.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.291a5225.js",
+    "static/js/2.a6c36b1c.chunk.js",
+    "static/css/main.b2d7595a.chunk.css",
+    "static/js/main.d492faea.chunk.js"
+  ]
+}
