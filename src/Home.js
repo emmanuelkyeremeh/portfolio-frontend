@@ -9,11 +9,20 @@ import Image6 from "./Images/logistics.jpg"
 import Topic from './Topic'
 import Connect from './Connect'
 import Footer from './Footer'
+import {Helmet} from "react-helmet"
 
 
 const Home = () => {
     return (
         <div className="container-fluid">
+            <Helmet>
+            <html lang="en" />
+            <title>Home | Emmanuel Kyeremeh, Web Designer and Developer</title>
+            <meta name="Emmanuel Kyeremeh" content="I am Emmanuel Kyeremeh, a Website Designer and Developer from Accra, Ghana" />
+            <meta name="robots" content="index, follow" />
+            <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+            <meta charset="UTF-8"/>
+            </Helmet>
             <div className="container">
                 <Showcase/>
                 <Featured/>

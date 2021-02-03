@@ -5,10 +5,19 @@ import webhosting from "./Images/webhosting.png"
 import cyber from "./Images/cyber.png"
 import logistics from "./Images/logisticss.jpg"
 import Footer from './Footer'
+import {Helmet} from "react-helmet"
 
 const Services = () => {
     return (
         <div className="container-fluid">
+            <Helmet>
+                <html lang="en" />
+                <title>My Services | Emmanuel Kyeremeh, Web Designer and Developer</title>
+                <meta name="Emmanuel Kyeremeh" content="I am Emmanuel Kyeremeh, a Website Designer and Developer from Accra, Ghana" />
+                <meta name="robots" content="index, follow" />
+                <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+                <meta charset="UTF-8"/>
+            </Helmet> 
             <div className="container">
                 <h1 style ={{textAlign:"center",paddingTop:"2rem",fontSize:"3rem"}}>My Services</h1>
                 <p style = {{textAlign:"center",fontSize: "1.5rem"}}>A detailed breakdown of everything I offer</p>

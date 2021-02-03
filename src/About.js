@@ -1,12 +1,21 @@
 import React from 'react'
 import aboutImg from "./Images/aboutme.png"
 import {Link} from "react-router-dom"
+import {Helmet} from "react-helmet"
 import Footer from "./Footer"
 
 const About = () => {
     
     return (
         <div className="container-fluid">
+              <Helmet>
+                <html lang="en" />
+                <title>About | Emmanuel Kyeremeh, Web Designer and Developer</title>
+                <meta name="Emmanuel Kyeremeh" content="I am Emmanuel Kyeremeh, a Website Designer and Developer from Accra, Ghana" />
+                <meta name="robots" content="index, follow" />
+                <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+                <meta charset="UTF-8"/>
+            </Helmet>
             <div className="container">
                 <div className="row">
                     <div className="col-lg-5" style = {{paddingTop:"1rem"}}>
